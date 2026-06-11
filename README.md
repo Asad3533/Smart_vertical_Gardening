@@ -185,7 +185,7 @@ smart-vertical-gardening-system/
 
 # 👨‍💻 Author
 
-## Asad  ## Taimor Imtiaz ## Ahmed Iftikhar
+## Asad   Taimor Imtiaz  Ahmed Iftikhar
 
 Flutter Developer | IoT Enthusiast | Aspiring Data Analyst
 
