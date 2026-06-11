@@ -187,7 +187,7 @@ smart-vertical-gardening-system/
 
 ## Asad   Taimor Imtiaz  Ahmed Iftikhar
 
-Flutter Developer | IoT Enthusiast | Aspiring Data Analyst
+Flutter Developer | IoT Enthusiast 
 
 ---
 
